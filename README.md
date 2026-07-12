@@ -1,8 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:0668E1,100:4285F4&height=220&section=header&text=Rahul%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=I%20don't%20write%20code.%20I%20write%20ROAS.&descAlignY=75&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:0d4429&height=150&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+Performance+Marketer+%7C+6%2B+years;%3E+Google+Ads+%E2%80%A2+Meta+Ads+%E2%80%A2+Amazon+PPC;%3E+Managed+up+to+%24700K%2Fmonth+in+ad+spend;%3E+Scaled+ROAS+2.8x+%E2%86%92+4.1x;%3E+The+dude+with+the+WHY+behind+every+metric" alt="Performance Marketer" />
+</div>
+
+```
+rahul@growth-engine:~$ whoami
+
+██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗
+██╔══██╗██╔══██╗██║  ██║██║   ██║██║
+██████╔╝███████║███████║██║   ██║██║
+██╔══██╗██╔══██║██╔══██║██║   ██║██║
+██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+
+██████╗  █████╗ ███╗   ██╗██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔════╝╚██╗ ██╔╝
+██████╔╝███████║██╔██╗ ██║██║  ██║█████╗   ╚████╔╝
+██╔═══╝ ██╔══██║██║╚██╗██║██║  ██║██╔══╝    ╚██╔╝
+██║     ██║  ██║██║ ╚████║██████╔╝███████╗   ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝   ╚═╝
+
+rahul@growth-engine:~$ cat tagline.txt
+I don't write code. I write ROAS.
+
+rahul@growth-engine:~$ ./load_profile.sh
+Loading performance marketer... ████████████████████ 100% ✔
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Performance+Marketer+%7C+6%2B+years;%3E+Google+Ads+%E2%80%A2+Meta+Ads+%E2%80%A2+Amazon+PPC;%3E+Managed+up+to+%24700K%2Fmonth+in+ad+spend;%3E+Scaled+ROAS+2.8x+%E2%86%92+4.1x;%3E+The+dude+with+the+WHY+behind+every+metric_" alt="Performance Marketer" />
 
 <br/><br/>
 
@@ -11,11 +39,11 @@ Mine shows you what happens when a marketer treats ad accounts like engineers tr
 
 <br/><br/>
 
-<a href="https://dudewithwhy.vercel.app"><img src="https://img.shields.io/badge/🌐_Website-dudewithwhy.vercel.app-FF9900?style=for-the-badge" /></a>
+<a href="https://dudewithwhy.vercel.app"><img src="https://img.shields.io/badge/🌐_Website-dudewithwhy.vercel.app-39FF14?style=for-the-badge&labelColor=0d1117" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/irahulpandey"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/irahulpandey"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
-<a href="mailto:rahulpandey0498@gmail.com"><img src="https://img.shields.io/badge/Email-rahulpandey0498@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:rahulpandey0498@gmail.com"><img src="https://img.shields.io/badge/Email-rahulpandey0498@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
@@ -26,10 +54,10 @@ Mine shows you what happens when a marketer treats ad accounts like engineers tr
 ```javascript
 const rahul = {
   pronouns: "he/him",
-  location: "Bangalore, India 🇮🇳",
+  location: "Bangalore, India",
   role: "Performance Marketing Lead",
   arena: ["DTC", "Ecommerce", "B2B Lead Gen", "Marketplaces"],
-  markets: ["🇬🇧 UK", "🇮🇪 Ireland", "🇮🇳 India"],
+  markets: ["UK", "Ireland", "India"],
 
   dailyDrivers: {
     paidMedia: ["Google Ads", "Meta Ads", "Amazon PPC"],
@@ -41,7 +69,7 @@ const rahul = {
 
   currentlyLearning: ["Google Ads Scripts", "GA4 + BigQuery", "AI-assisted campaign analysis"],
   askMeAbout: ["ROAS", "ACOS", "CAC", "why your conversion tracking is lying to you"],
-  funFact: "Watches every over of cricket 🏏 — monitors ad accounts the same way",
+  funFact: "Watches every over of cricket — monitors ad accounts the same way",
   why: "Every metric needs a WHY behind it. That's the domain name. That's the job."
 };
 ```
@@ -72,12 +100,12 @@ test_client_satisfaction ................... 4.8★ (220+)    PASSED ✅
 ```bash
 $ git log --oneline --graph --author="Rahul Pandey"
 
-* a4f1c2e (HEAD -> main, May 2025) feat: Performance Marketing Lead @ Heavenly Hair 🇮🇪
-* b7d9e3a (Aug 2024) feat: Senior Analyst, Campaign Ops @ Tech Mahindra
-* c2e8f4b (Jul 2021) feat: Marketing Ops Specialist @ No Hurt No Harm 🇮🇪
-* d5a3b6c (Aug 2020) feat: Paid Media & SEO Specialist @ Heavenly Hair
-* e8c4d7f (Jan 2020) feat: Google Ads Manager @ 5-Star Cleaning (contract)
-* f1b5e9d (Jul 2017) feat: Tech Writer @ UC News (UCWeb – Alibaba Group)
+* a4f1c2e (HEAD -> main, May 2025) feat: Performance Marketing Lead @ Heavenly Hair [IE]
+* b7d9e3a (Aug 2024) feat: Senior Analyst, Campaign Ops @ Tech Mahindra [IN]
+* c2e8f4b (Jul 2021) feat: Marketing Ops Specialist @ No Hurt No Harm [IE]
+* d5a3b6c (Aug 2020) feat: Paid Media & SEO Specialist @ Heavenly Hair [IE]
+* e8c4d7f (Jan 2020) feat: Google Ads Manager @ 5-Star Cleaning (contract) [IE]
+* f1b5e9d (Jul 2017) feat: Tech Writer @ UC News (UCWeb - Alibaba Group)
 * 0000001 (May 2017) init: Independent Paid Media Consultant — first commit 🚀
 ```
 
@@ -269,19 +297,26 @@ added 8 packages · audited · found 0 vulnerabilities
 
 <br/><br/>
 
-<a href="https://dudewithwhy.vercel.app"><img src="https://img.shields.io/badge/🌐_See_my_work-dudewithwhy.vercel.app-FF9900?style=for-the-badge" /></a>
+<a href="https://dudewithwhy.vercel.app"><img src="https://img.shields.io/badge/🌐_See_my_work-dudewithwhy.vercel.app-39FF14?style=for-the-badge&labelColor=0d1117" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/irahulpandey"><img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/irahulpandey"><img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 &nbsp;
-<a href="mailto:rahulpandey0498@gmail.com"><img src="https://img.shields.io/badge/Or_email_me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:rahulpandey0498@gmail.com"><img src="https://img.shields.io/badge/Or_email_me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
-<br/><br/>
+</div>
 
-<i>🏏 Cricket fan who watches every over — I monitor ad accounts the same way.</i>
+```
+rahul@growth-engine:~$ git commit -m "thanks for scrolling all the way"
+[main 4f2a9c1] thanks for scrolling all the way
+ 1 file changed, 1 visitor impressed
 
-<br/>
+rahul@growth-engine:~$ logout
+Connection to rahulpandey0498 closed.
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:0668E1,100:FF9900&height=140&section=footer&text=console.log(%22thanks%20for%20scrolling%22)&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4429,50:0d1117,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
 
